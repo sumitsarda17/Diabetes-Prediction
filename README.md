@@ -43,7 +43,8 @@ Below is the attribute information:
 - It'll deploy your app on localhost and run your app in your browser.
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.hvToj_YMfz0hDZj8k2OerQHaCb%26pid%3DApi&f=1&ipt=171efbe6f71ce71a397be00bba52a478f2d81d8c7a48ff4b58708bf381404def&ipo=images">
 
-## Live Demo Link
+## Webiste URL  
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://https://sumitsarda17-diabetes-prediction-diabetes-7reeua.streamlit.app)
 
 ## Author
 👤 **Sumit Sarda**
